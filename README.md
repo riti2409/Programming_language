@@ -50,9 +50,8 @@
 - Books : [LearnJava.pdf](https://github.com/riti2409/Programming_language/files/8146914/LearnJava.pdf)
 
 - Notes/cheatsheet :  
-  -[Notes](https://github.com/riti2409/Programming_language/files/8146923/Java.Programming.pdf)
-  
-  -[Cheatsheet](https://github.com/riti2409/Programming_language/files/8146917/Java-Cheat-Sheet.pdf)
+  - [Notes](https://github.com/riti2409/Programming_language/files/8146923/Java.Programming.pdf)
+  - [Cheatsheet](https://github.com/riti2409/Programming_language/files/8146917/Java-Cheat-Sheet.pdf)
 
 - Practice : [Hackerrank](https://www.hackerrank.com/domains/java)
 
