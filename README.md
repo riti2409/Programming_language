@@ -30,7 +30,7 @@
     - Hindi :  [Code with Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)
     - In One Video : [Code with Harry](https://www.youtube.com/watch?v=yGB9jhsEsr8&ab_channel=CodeWithHarry)
     
-- Books :[C++.pdf](https://github.com/riti2409/Programming_language/files/8146913/C%2B%2B.pdf)
+- Books : [C++.pdf](https://github.com/riti2409/Programming_language/files/8146913/C%2B%2B.pdf)
 
 - Notes/cheatsheet :
   - [Notes](https://drive.google.com/file/d/1FHt2QoM6U8rydz9HQkNF6Le0fgKtAy3m/view)
@@ -49,9 +49,9 @@
     
 - Books : [LearnJava.pdf](https://github.com/riti2409/Programming_language/files/8146914/LearnJava.pdf)
 
-- Notes/cheatsheet :  
-  - [Notes](https://github.com/riti2409/Programming_language/files/8146923/Java.Programming.pdf)
-  - [Cheatsheet](https://github.com/riti2409/Programming_language/files/8146917/Java-Cheat-Sheet.pdf)
+- Notes/cheatsheet : 
+   - [Notes](https://github.com/riti2409/Programming_language/files/8146923/Java.Programming.pdf)
+   - [Cheatsheet](https://github.com/riti2409/Programming_language/files/8146923/Java.Programming.pdf)
 
 - Practice : [Hackerrank](https://www.hackerrank.com/domains/java)
 
@@ -64,7 +64,7 @@
     - Hindi :   [Code with Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
     - In One Video : [Code with Harry](https://www.youtube.com/watch?v=ihk_Xglr164&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=15&ab_channel=CodeWithHarry)
     
-- Books : [Python Programming.pdf](https://github.com/riti2409/Programming_language/files/8146943/Python.Programming.Python.Programming.for.Beginners.Python.Programming.for.Intermediates.PDFDrive.pdf)
+- Books : [Uploading Python Programming.  Python Programming for Beginners, Python Programming for Intermediates ( PDFDrive ).pdf…]()
 
 - Notes/cheatsheet : [Python-Cheat-Sheet.pdf](https://github.com/riti2409/Programming_language/files/8146925/Python-Cheat-Sheet.pdf)
 
