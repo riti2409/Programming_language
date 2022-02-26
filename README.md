@@ -51,7 +51,7 @@
 
 - Notes/cheatsheet :  
   -[Notes]([Java Programming.pdf](https://github.com/riti2409/Programming_language/files/8146923/Java.Programming.pdf))
-  -[Cheatsheet]([Java-Cheat-Sheet.pdf](https://github.com/riti2409/Programming_language/files/8146917/Java-Cheat-Sheet.pdf) )
+  -[Cheatsheet]([Java-Cheat-Sheet.pdf](https://github.com/riti2409/Programming_language/files/8146917/Java-Cheat-Sheet.pdf))
 
 - Practice : [Hackerrank](https://www.hackerrank.com/domains/java)
 
