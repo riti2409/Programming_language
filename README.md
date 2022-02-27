@@ -4,6 +4,7 @@
 - Notes
 - Cheatsheet
 - Practice
+- Blogs
 
 
 # C Programming Language 
@@ -21,6 +22,7 @@
  
  - Practice : [Hackerrank](https://www.hackerrank.com/domains/c)
 
+- Blogs : [Github](https://github.com/WonderPro/Batch-2021/blob/2ace620f0a8b834f9cc8c862e2d468f371deee1e/Syllabus/C%20Syllabus/README.md)
 <hr>
 
 # C++ Programming Language 
@@ -70,4 +72,5 @@
 
 - Practice : [Hackerrank](https://www.hackerrank.com/domains/python)
 
+- Blogs : [Dev.to](https://dev.to/aatmaj/series/13315)
 <hr>
